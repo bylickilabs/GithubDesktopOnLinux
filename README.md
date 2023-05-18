@@ -5,6 +5,10 @@ After successful completion, `Github Desktop` can be reached via the Application
 Enter `git` in the search field and start the application
 
 ### Ready to use...
+
+|![Unbenannt](https://github.com/bylickilabs/GithubDesktopOnLinux/assets/109308073/2c7ded06-26c4-4efe-ab43-cdbe0fd63c30)|
+|---|
+
 ---
 
 ```yarn
