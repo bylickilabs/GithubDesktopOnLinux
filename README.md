@@ -1,5 +1,7 @@
 `Quick guide` to `install` the `Github Desktop interface` for `Linux`.
+
 After successful completion, `Github Desktop` can be reached via the Applications menu.
+
 Enter `git` in the search field and start the application
 
 >Ready to use
