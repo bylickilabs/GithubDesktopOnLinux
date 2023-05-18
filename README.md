@@ -8,7 +8,8 @@ Enter `git` in the search field and start the application
 ---
 
 ```yarn
-To use the Github desktop Again run the following command in your termina lnterface for Linux as well, follow the steps below!**
+To use the Github desktop Again run the following command in your termina lnterface for Linux as well, 
+follow the steps below!**
 ```
 ---
 >Step I
