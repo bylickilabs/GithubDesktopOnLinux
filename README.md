@@ -8,6 +8,7 @@ Enter `git` in the search field and start the application
 |---|
 
 >Step I
+
 | Run the following command in your terminal:|
 |---|
 
@@ -18,6 +19,7 @@ sudo apt-get install gdebi-core
 ---
 
 >Step II
+
 | Again run the following command in your Terminal |
 |---|
 ***Command:***
@@ -27,6 +29,7 @@ sudo wget https://github.com/shiftkey/desktop/releases/download/release-3.1.1-li
 ---
 
 >Step III
+
 | Complete the last step |
 |---|
 ***Command:***
