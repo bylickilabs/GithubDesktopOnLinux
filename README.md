@@ -22,6 +22,7 @@ sudo apt-get install gdebi-core
 
 | Again run the following command in your Terminal |
 |---|
+
 ***Command:***
 ```yarn
 sudo wget https://github.com/shiftkey/desktop/releases/download/release-3.1.1-linux1/GitHubDesktop-linux-3.1.1-linux1.deb
@@ -32,6 +33,7 @@ sudo wget https://github.com/shiftkey/desktop/releases/download/release-3.1.1-li
 
 | Complete the last step |
 |---|
+
 ***Command:***
 ```yarn
 sudo gdebi GitHubDesktop-linux-3.1.1-linux1.deb
