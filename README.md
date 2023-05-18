@@ -17,7 +17,7 @@ follow the steps below!**
 | Run the following command in your terminal:|
 |---|
 
-** _Command:_ **
+** Command: **
 ```yarn
 sudo apt-get install gdebi-core 
 ```
