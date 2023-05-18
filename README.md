@@ -5,7 +5,7 @@ After successful completion, `Github Desktop` can be reached via the Application
 Enter `git` in the search field and start the application
 
 
->Ready to use
+### Ready to use
 
 | To use the Github desktop Again run the following command in your termina lnterface for Linux as well, follow the steps below! |
 |---|
